@@ -141,12 +141,8 @@ a {
   display: flex;
   justify-content: center;
   width: 100%;
-  opacity: 0.8;
 }
 .contact-links > a {
-  color: #6c757d;
-}
-.contact-links:hover {
   color: #fff;
 }
 @media (max-width: 800px) {
